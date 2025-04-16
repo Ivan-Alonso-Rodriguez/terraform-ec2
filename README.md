@@ -1,5 +1,6 @@
 # Terraform EC2
 Este proyecto crea una instancia EC2 en AWS usando Terraform.
+Al desplegar la infraestructura, se instalará automáticamente `nginx` y se mostrará un mensaje personalizado en el navegador al acceder a la IP pública de la instancia.
 
 ## Características
 - AMI Ubuntu 22.04 (puedes cambiarla)
